@@ -70,7 +70,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .page-heading .text-content h2 {
-	color: #fff;
+	color: #0c6cac;
 	font-size: 36px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -86,7 +86,7 @@ h1,h2,h3,h4,h5,h6 {
   bottom: 0;
   position: fixed;
   z-index: 9999999;
-  color: #fff;
+  color: #0c6cac;
 }
 
 #preloader .jumper {
@@ -254,7 +254,7 @@ header .navbar {
 }
 .navbar .navbar-toggler-icon:after {
 	content: '\f0c9';
-	color: #fff;
+	color: #0c6cac;
 	font-size: 18px;
 	line-height: 30px;
 	font-family: 'FontAwesome';
@@ -282,7 +282,7 @@ header .navbar {
 }
 
 .owl-banner .item .item-content .meta-category span {
-	color: #0c6cac;
+	color: #ff1717;
 	font-size: 18px;
 	text-transform: uppercase;
 	font-weight: 900;
@@ -292,7 +292,7 @@ header .navbar {
 .owl-banner .item .item-content h4 {
 	font-size: 24px;
 	font-weight: 900;
-	color: #fff;
+	color: #e6fe0c;
 	letter-spacing: 0.5px;
 	text-transform: capitalize;
 	margin: 10px 0px 12px 0px;
@@ -305,7 +305,7 @@ header .navbar {
 
 .owl-banner .item .item-content ul li:after {
 	content: '|';
-	color: #fff;
+	color: #0c6cac;
 	margin-left: 8px;
 }
 
@@ -315,7 +315,7 @@ header .navbar {
 
 .owl-banner .item .item-content ul li a {
 	font-size: 14px;
-	color: #fff;
+	color: #1af413;
 	font-weight: 500;
 	transition: all .3s;
 }
@@ -345,7 +345,7 @@ header .navbar {
 }
 
 .owl-banner .owl-nav button span {
-	color: #fff;
+	color: #0c6cac;
 	font-size: 36px;
 	width: 60px;
 	height: 60px;
@@ -380,7 +380,7 @@ header .navbar {
 .call-to-action .main-content h4 {
 	margin-bottom: 0px;
 	margin-top: 12px;
-	color: #fff;
+	color: #0c6cac;
 	font-size: 26px;
 	font-weight: 900;
 	letter-spacing: 0.25px;
